@@ -5,21 +5,31 @@ To write a python program for copying the contents from one file to another file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1:
+### Step 1: Open visual studio code.
 
-### Step 2: 
+### Step 2: Create file with .py extension.
  
-### Step 3: 
+### Step 3: Start the program.
 
-### Step 4:  
+### Step 4: Write the code. 
 
-### Step 5: 
+### Step 5: Run terminal for output of the given program.
 
-### Step 6: 
+### Step 6: End the program.
 
 ## PROGRAM:
+```
+# Developed by Vineesh.M
+# Ref No : 21004131
+# To write a program for copying the contents from one file to another file.
 
-### OUTPUT:
+with open ('copy1.txt') as c1:
+    with open ('copy2.txt','w') as c2:
+        for line in c1:
+            c2.write(line)
+```
+
+## OUTPUT:
 
 
 
