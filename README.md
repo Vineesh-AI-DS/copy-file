@@ -30,6 +30,9 @@ with open ('copy1.txt') as c1:
 ```
 
 ## OUTPUT:
+![Screenshot (54)](https://user-images.githubusercontent.com/93427254/151658653-49bb76d9-1301-4347-917b-4ad57186fea5.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/93427254/151658656-1d75f91d-e924-494c-acd6-b65b4eb71bba.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/93427254/151658658-eca093f8-ae17-4ec7-882c-2360bb05ab44.png)
 
 
 
